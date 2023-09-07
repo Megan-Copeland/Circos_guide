@@ -4,7 +4,11 @@ Welcome to this concise guide on creating a synteny plot in Circos using alignme
 
 In the "MAC Circos Guide" file, I will walk you through the step-by-step process of generating a synteny plot using alignment data. From installation and data preparation to plot customization, I will cover essential concepts and provide practical instructions. Whether you are a bioinformatician, geneticist, or researcher interested in comparative genomics, this guide will equip you with the necessary skills to utilize Circos effectively for your synteny analysis.
 
-This guide was designed for MacOS, but it may work for Unix/Linus systems with some minor adjustments to some of the commands. Basic .conf files that will go into your etc directory as described in the guide are located in the config_files folder.
+# Important Notes 
+1. This guide was designed for MacOS, but it may work for Unix/Linus systems with some minor adjustments to some of the commands.
+2. The basic .conf files that are described in the guide (referring to the files that will go in your etc directory) are located in the config_files folder.
 
-![GitHub Logo](https://github.com/username/repository/raw/main/path/to/your/image.png)
+# Example plot
+
+![GitHub Logo](https://github.com/Megan-Copeland/Circos_guide/blob/main/example_plot.png)
 
