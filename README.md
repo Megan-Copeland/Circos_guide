@@ -8,7 +8,6 @@ In the "MAC Circos Guide" file, I will walk you through the step-by-step process
 1. This guide was designed for MacOS, but it may work for Unix/Linus systems with some minor adjustments to some of the commands.
 2. The basic .conf files that are described in the guide (referring to the files that will go in your etc directory) are located in the config_files folder.
 
-# Example plot
 
-![GitHub Logo](https://github.com/Megan-Copeland/Circos_guide/blob/main/example_plot.png)
+
 
